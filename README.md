@@ -8,9 +8,8 @@
 
 ##### Services:
 - Face API 
-- Text to Speech API 
+- Text to Speech
 - Windows 10 IoT Core
-
 
 ##### Technology used:
 - Cognitive Services
@@ -32,3 +31,15 @@ First, we are going to create a Windows Universal Platform application with C Sh
 
 ## Advantages
 The principal advantage of using Cognitive Services in this simulation is the possibility of identifying people quickly and accurately. The Artificial Intelligence can work for us 24 hours a day, 7 days a week without any interruption. This way a company will save money and resources and will be very much efficient controlling the accesses to a building for example. In addition, with the capability to speak we can give the machine a more human appearance.
+
+## Links
+
+[Experiment: Facial Recognition Access Control](https://www.idiwork.com/projects/experiment-103/)
+
+Architecture Diagram: Services and Resources
+
+[Step by Step 1: How to work with Face Cognitive Service](https://www.idiwork.com/experiment-103-how-to-modify-the-project-to-work-with-face-cognitive-service-and-servo-motor/)
+
+[Step by Step 2: How to set up the IoT device hardware](https://www.idiwork.com/experiment-103-how-to-set-up-the-iot-device-hardware-peripherals-and-electronics/)
+
+Step by Step 3: How to pack and launch the IoT project
